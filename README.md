@@ -1,1 +1,1 @@
-"# zabbix-api-create-host" 
+# zabbix-api-create-host
